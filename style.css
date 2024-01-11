@@ -1,0 +1,26 @@
+h1:hover {
+  color: lightskyblue;
+}
+
+h2:visited {
+  color: blueviolet;
+}
+
+h3:active {
+  color: green;
+}
+
+h4::after {
+  color: aliceblue;
+}
+.nici:link {
+  color: red;
+}
+
+button {
+  height: 10px;
+  width: 20%;
+  border: 60px solid gold;
+  padding: 40px;
+  margin:15px;
+}
